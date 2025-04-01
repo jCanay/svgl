@@ -31,8 +31,6 @@
     </a>
 </div>
 
-</p>
-
 <div align="center">
 
 ![Svelte Badge](https://img.shields.io/badge/Sveltekit-FF3E00?logo=svelte&logoColor=fff&style=flat)
